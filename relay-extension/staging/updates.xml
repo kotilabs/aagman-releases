@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='bpjggkohkpilmfbpleljicdnkkpijpme'>
+    <updatecheck codebase='https://github.com/kotilabs/aagman-releases/releases/download/relay-extension-staging-v0.2.0/staging.crx' version='0.2.0' />
+  </app>
+</gupdate>
